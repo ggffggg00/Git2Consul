@@ -1,0 +1,3 @@
+root_k=server/api
+scan_dir=config/
+include_file_name=false
